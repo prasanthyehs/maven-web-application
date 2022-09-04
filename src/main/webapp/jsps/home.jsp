@@ -17,21 +17,21 @@
 		<img src="images/IMG_0410 pp.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		prasanth yehs, 
+		Prasanth yehs, 
 		Anantapur,
 		AP,
 		+91-9160646427,
 		Prasanthyehs@gmail.com
 		<br>
-		<a href="mailto:prasanthyehs@gmail.com">Mail to Prasanth , INSTA:prasanthyehs</a>
+		<a href="mailto:Prasanthyehs@gmail.com">Mail to Prasanth , INSTA:prasanthyehs</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Prasanthyehs.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://fb.com/spy1996</a> </small></p>
 
 </body>
 </html>
