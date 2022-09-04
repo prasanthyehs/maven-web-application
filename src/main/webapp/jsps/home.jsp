@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/IMG_0410 pp.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Software Solutions, 
