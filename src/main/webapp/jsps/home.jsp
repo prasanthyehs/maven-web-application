@@ -23,7 +23,7 @@
 		+91-9160646427,
 		Prasanthyehs@gmail.com
 		<br>
-		<a href="mailto:prasanthyehs@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:prasanthyehs@gmail.com">Mail to Prasanth , INSTA:prasanthyehs</a>
 	</span>
 </div>
 <hr>
