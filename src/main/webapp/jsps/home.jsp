@@ -17,11 +17,11 @@
 		<img src="images/IMG_0410 pp.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		prasanth yehs, 
+		Anantapur,
+		AP,
+		+91-9160646427,
+		Prasanthyehs@gmail.com
 		<br>
 		<a href="mailto:prasanthyehs@gmail.com">Mail to Mithun Technologies</a>
 	</span>
